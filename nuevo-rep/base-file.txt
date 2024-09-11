@@ -1,1 +1,2 @@
 New changes for new-feature
+Some new changes
